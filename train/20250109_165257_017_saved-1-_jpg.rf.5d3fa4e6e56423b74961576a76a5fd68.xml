@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20250109_165257_017_saved-1-_jpg.rf.5d3fa4e6e56423b74961576a76a5fd68.jpg</filename>
+	<path>20250109_165257_017_saved-1-_jpg.rf.5d3fa4e6e56423b74961576a76a5fd68.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Pao</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>105</xmin>
+			<xmax>203</xmax>
+			<ymin>128</ymin>
+			<ymax>209</ymax>
+		</bndbox>
+	</object>
+</annotation>

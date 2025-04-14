@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>20250109_165319_078_saved_jpg.rf.f5f192358d58647f25496e5b80b3d428.jpg</filename>
+	<path>20250109_165319_078_saved_jpg.rf.f5f192358d58647f25496e5b80b3d428.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Kloem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>96</xmin>
+			<xmax>212</xmax>
+			<ymin>154</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+</annotation>
